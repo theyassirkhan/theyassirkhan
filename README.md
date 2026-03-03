@@ -2,37 +2,37 @@
 
 ### 🚀 AI & Data Science Engineer | ML & Deep Learning Enthusiast | Full-Stack Developer | Future Gen AI Builder
 
-- 🔭 I'm currently working on **AI-powered real-time computer vision systems (Parking Space Detection)
+- 🔭 I'm currently working on AI-powered real-time computer vision systems (Parking Space Detection)
 
 Building intelligent web apps integrating TensorFlow & Streamlit
 
-Improving scalable ML model deployment strategies**
+Improving scalable ML model deployment strategies
 
-- 🌱 I'm currently learning **Generative AI & LLM integrations
+- 🌱 I'm currently learning Generative AI & LLM integrations
 
 Advanced Deep Learning architectures
 
 Model optimization & production deployment
 
-Scalable AI system design**
+Scalable AI system design
 
-- 👯 I'm looking to collaborate on **AI/ML-based real-world problem-solving projects
+- 👯 I'm looking to collaborate on AI/ML-based real-world problem-solving projects
 
 Computer Vision & Speech Recognition systems
 
 Startup-level AI product development
 
-Open-source AI tools**
+Open-source AI tools
 
-- 🤝 I'm looking for help with **Deploying AI models at scale
+- 🤝 I'm looking for help with Deploying AI models at scale
 
 Optimizing ML models for production
 
 Advanced MLOps practices
 
-Contributing to impactful AI research**
+Contributing to impactful AI research
 
-- 💬 Ask me about **Machine Learning & Deep Learning
+- 💬 Ask me about Machine Learning & Deep Learning
 
 OpenCV & Computer Vision
 
@@ -40,7 +40,7 @@ Speech Emotion Recognition
 
 Full-Stack AI applications
 
-Team leadership & scaling communities**
+Team leadership & scaling communities
 
 - 📫 How to reach me **📧 Muhammedyassirkhan@gmail.com || 📱 +91 9739121146**
 
