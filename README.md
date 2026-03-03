@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theyassirkhan&label=Profile%20views&color=0e75b6&style=flat" alt="theyassirkhan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theyassirkhan" alt="theyassirkhan" /></a> </p>
 
 - 🔭 I’m currently working on **AI-powered real-time computer vision systems (Parking Space Detection) Building intelligent web apps integrating TensorFlow & Streamlit Improving scalable ML model deployment strategies**
 
