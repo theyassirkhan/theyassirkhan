@@ -2,11 +2,7 @@
 
 ### 🚀 AI & Data Science Engineer | ML & Deep Learning Enthusiast | Full-Stack Developer | Future Gen AI Builder
 
-- 🔭 I'm currently working on AI-powered real-time computer vision systems (Parking Space Detection)
-
-Building intelligent web apps integrating TensorFlow & Streamlit
-
-Improving scalable ML model deployment strategies
+- 🔭 I'm currently working on **AI-powered real-time computer vision systems (Parking Space Detection) Building intelligent web apps integrating TensorFlow & Streamlit Improving scalable ML model deployment strategies**
 
 - 🌱 I'm currently learning Generative AI & LLM integrations
 
