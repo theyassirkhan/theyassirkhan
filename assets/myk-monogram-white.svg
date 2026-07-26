@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="480" height="480" role="img" aria-label="MYK Productions monogram">
+  <defs>
+    <mask id="knock" maskUnits="userSpaceOnUse" x="0" y="0" width="120" height="120">
+      <rect x="0" y="0" width="120" height="120" fill="#fff"/>
+      <g fill="none" stroke="#000" stroke-width="12" stroke-linejoin="miter">
+        <path d="M38,38 L62,60 L38,82"/><path d="M70,82 L92,82"/>
+      </g>
+    </mask>
+  </defs>
+  <rect x="0" y="0" width="120" height="120" fill="#FFFFFF" mask="url(#knock)"/>
+</svg>
