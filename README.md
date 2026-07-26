@@ -1,37 +1,142 @@
-<h1 align="center">Hi 👋, I'm Muhammed Yassir Khan</h1>
-<h3 align="center">🚀 AI & Data Science Engineer | ML & Deep Learning Enthusiast | Full-Stack Developer | Future Gen AI Builder</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/theyassirkhan/theyassirkhan/main/assets/hero.svg" alt="Muhammed Yassir Khan — AI & Data Science Engineer" width="100%" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theyassirkhan&label=Profile%20views&color=0e75b6&style=flat" alt="theyassirkhan" /> </p>
+<div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Live_Work-BlockSense-2DD4BF?style=for-the-badge&logoColor=white)](https://blocksense-ai-ten.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-yassir-khan-b0325a280) [![Email](https://img.shields.io/badge/Email-Reach_out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Muhammedyassirkhan@gmail.com) ![Profile views](https://komarev.com/ghpvc/?username=theyassirkhan&label=Profile%20views&color=2DD4BF&style=for-the-badge)
 
-- 🔭 I’m currently working on **AI-powered real-time computer vision systems (Parking Space Detection) Building intelligent web apps integrating TensorFlow & Streamlit Improving scalable ML model deployment strategies**
+</div>
 
-- 🌱 I’m currently learning **Generative AI & LLM integrations Advanced Deep Learning architectures Model optimization & production deployment Scalable AI system design**
+---
 
-- 👯 I’m looking to collaborate on **AI/ML-based real-world problem-solving projects Computer Vision & Speech Recognition systems Startup-level AI product development Open-source AI tools**
+## 👋 About
 
-- 🤝 I’m looking for help with **Deploying AI models at scale Optimizing ML models for production Advanced MLOps practices Contributing to impactful AI research**
+I'm an **AI & Data Science engineer** and independent developer in Bengaluru, building under **MYK Productions**. B.Tech in Artificial Intelligence & Data Science, class of 2026.
 
-- 👨‍💻 All of my projects are available at [https://github.com/theyassirkhan?tab=repositories](https://github.com/theyassirkhan?tab=repositories)
+I take products the whole way — computer vision and speech models, agentic LLM apps, and real-time multi-tenant SaaS that paying clients run in production.
 
-- 💬 Ask me about **Machine Learning & Deep Learning OpenCV & Computer Vision Speech Emotion Recognition Full-Stack AI applications Team leadership & scaling communities**
+- 🔭 **Building** — BlockSense, a real-time operations platform for gated communities (web + installable PWA)
+- 🌱 **Going deeper on** — generative AI, LLM tooling, and getting models to survive production
+- 💼 **Freelancing** — shipped and secured client systems: Supabase RLS, edge functions, CSP/HSTS hardening
+- 🤝 **Open to** — ML engineering, data science and software roles, plus applied-research collaborations
+- ⚡ **Beyond code** — led **300+ student ambassadors** on national campaigns for Spotify, Netflix and Pepsi
 
-- 📫 How to reach me **📧 Muhammedyassirkhan@gmail.com || 📱 +91 9739121146**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18vGzimyuSBSt959NBPJHTnj9-i0_a4jk/view?usp=sharing](https://drive.google.com/file/d/18vGzimyuSBSt959NBPJHTnj9-i0_a4jk/view?usp=sharing)
+## 🚀 Featured Work
 
-- ⚡ Fun fact **I’ve led 300+ student ambassadors while building AI projects — I combine tech + execution + leadership.**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### 🏙️ BlockSense
+**Multi-tenant SaaS for gated communities.** A 30+ table schema across three role-based portals, live water/power/gas/sewage monitoring, and a prediction engine that forecasts depletion from 7-day rolling averages — firing WhatsApp and email alerts before a tank runs dry.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+`Next.js 14` `TypeScript` `Convex` `Tailwind` `PWA` `Sentry`
 
+[**🔗 Live demo**](https://blocksense-ai-ten.vercel.app) · [Mobile PWA](https://block-sense-ai-mobile.vercel.app) — ~100 ms real-time sync, offline-capable
 
-<!-- Streak Stats -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=theyassirkhan&theme=tokyonight&cache_seconds=1800" />
-</p>
+</td>
+<td width="50%" valign="top">
 
+### 💎 Money Lens
+**AI personal-finance dashboard.** Parses Indian bank SMS into a categorised ledger in real time, detects recurring subscriptions, forecasts your balance — and runs an agentic chat that *executes* actions: creating goals, setting budgets, firing overspend alerts.
+
+`Python` `FastAPI` `SQLite` `Chart.js` `Agentic AI`
+
+[**🔗 Live demo**](https://money-lens-three.vercel.app) · [Code](https://github.com/theyassirkhan/Money-Lens)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎙️ Speech Emotion Recognition
+Classifies **7 emotions** from voice by fusing a neural net with pitch analysis, NLP sentiment on transcribed speech, and voice heuristics in a weighted ensemble. Ships **explainable output** — which of pitch, energy or word choice drove each call — across a Streamlit app, a Python API and a CLI.
+
+`TensorFlow` `Librosa` `MFCC` `Mel-spectrograms` `Streamlit`
+
+[Code](https://github.com/theyassirkhan/Speech-emotion-detection-and-recognition-tool)
+
+</td>
+<td width="50%" valign="top">
+
+### 🅿️ Parking Space Detection
+Real-time vacant-bay detection from parking-lot video. Grayscale → Gaussian blur → adaptive thresholding, then pixel-density analysis per bay, with colour-coded boxes, a custom space-picker tool and a live spot counter. **No GPU required.**
+
+`Python` `OpenCV` `NumPy` `cvzone`
+
+[Code](https://github.com/theyassirkhan/Parking-Space-Detection-with-AI)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛍️ Saba Collections — client work
+A **production QR-to-WhatsApp lead funnel** for a fashion retail brand: Supabase Postgres with row-level security, a Deno edge-function write path with rate limiting, dedup and bot protection, an admin dashboard with CSV export, and per-campaign QR attribution. Hardened with CSP/HSTS, XSS and CSV-injection protection.
+
+`React 19` `TypeScript` `Vite` `Supabase` `Deno`
+
+[**🔗 catalogue.sabacollections.in**](https://catalogue.sabacollections.in)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎬 Video Explainer Studio
+A **code-driven video pipeline** — renders a multi-scene product explainer entirely from TypeScript components via Remotion, with a reusable theme system and an automated render script. Front-end built on TanStack Start.
+
+`Remotion` `React 19` `TanStack` `Tailwind v4` `Radix UI`
+
+*Private — happy to walk through it on request*
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**AI / ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**Backend & Data**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Convex](https://img.shields.io/badge/Convex-EE342F?style=flat-square&logo=convex&logoColor=white)
+
+**Frontend**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Ship & Run**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+
+</div>
+
+---
+
+## 🎯 Focus
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/theyassirkhan/theyassirkhan/main/assets/focus.svg" alt="Focus areas: computer vision, applied LLMs, shipped products" width="100%" />
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's build something
+
+I'm most interested in problems where a model has to survive contact with real users.
+
+[![Email](https://img.shields.io/badge/Muhammedyassirkhan@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Muhammedyassirkhan@gmail.com) [![LinkedIn](https://img.shields.io/badge/Muhammed_Yassir_Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-yassir-khan-b0325a280)
+
+<sub><b>MYK Productions</b> · Bengaluru, India · Open to ML engineering, data science &amp; software roles</sub>
+
+</div>
